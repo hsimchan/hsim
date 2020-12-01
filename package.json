@@ -1,0 +1,30 @@
+{
+  "name": "hsim",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsimchan/hsim.git"
+  },
+  "author": "hsimchan",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/hsimchan/hsim/issues"
+  },
+  "homepage": "https://github.com/hsimchan/hsim#readme",
+  "dependencies": {
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "fengari-web": "^0.1.4",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "three.js": "^0.77.1",
+    "typescript": "^4.1.2"
+  }
+}
